@@ -1,4 +1,4 @@
 saltqueue
 =========
 
-Software related to creating the SALT Queue Scheduler 
+Software related to the SALT Queue Scheduler 
